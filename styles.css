@@ -76,6 +76,18 @@ header .profile-image {
 header .profile-image:hover {
   transform: scale(1.2) rotate(5deg);
 }
+
+.largeImage {
+  max-width: 40%;
+  max-height: 40%;
+}
+
+.smallImage {
+  max-width: 30%;
+  max-height: 30%;
+}
+
+
 .tag {
   background-color: #efefef;
   color: black;
